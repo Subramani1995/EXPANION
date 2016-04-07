@@ -1,0 +1,61 @@
+# EXPANION
+projects under Software Development domain
+
+A DESIGN DOCUMENT FOR THE PROJECT 'EFFIENC_'C''-a programmin website/app which gives more importance to the efficiency of the code!
+
+ABSTRACT:
+
+	efficien'C' is the website/app which can be designed to make the programmers more efficient. There are various sources for the beginners to learn coding. But the problem they face is, they don't know whether their program is efficient or not. Nowadays anyone can code, but only the people who can code with less time and space complexity can shine in industry. This project completely focusses on such people, and help them to come out of their trouble in efficient coding.
+
+	The evaluation of the code is not only dependent on 'the number of testcases' the code can pass, here it is more about how quickly the code compiles, and how much space it occupies in the memory.
+
+
+HIGH LEVEL ENTITIES:
+	1.Compiler
+	2.User Interface Design
+	3.Server to store details of all the programs
+	4.Various components like "leaderboard" and "forum"
+
+OVERVIEW:
+
+	The platform consists of 10 levels, where each and every level will have 5 programs. difficulty will gradually increase from level 1 to level 10. The user is allowed to move to the next level only if he scores a minimum of score in his previous level. at the end of each program user can check his rank, which is given depending on the number of users solved that particular program with better efficiency.
+
+
+DESIGN & IMPLEMENTATION:
+
+		It will be an interactive and competitive platform, where user can compare his/her code with many other's and determine his level of coding.  It may be like a course with different levels of difficulties starting from very easy to hard (some of the real time problems). It is designed such that if one can finish all the levels with good rank in each level, he will become an good efficient programmer.
+
+	The interface should be made attractive and user friendly. HTML 5 or Java script can be used for designing the front end. It contains a C compiler or for simplicity a link to an open source C compiler. The compilation done as usual using this compiler, in addition to this, this platform will provide the 'time taken to compile the code' and 'amount of space occupied' along with the actual program output. Depending on this factors, User should be suggested with some of tips, that will make his code better.
+Eg - reducing the number of loops, Using dynamic memory allocation, Usage of some advanced algorithm techniques
+
+	"The leaderboard" gives more importance to the compilation time of programmers rather than how many testcases they passed, The server should store the program data of each and every user and give a rank to the user by using any one of the sorting techniques. It will be good if the user is provided with the information like, "how many better coders are there before him and how faster their codes are?" 
+
+	A "Forum" is created where all the users can interact with each other. They can share some common techniques and tips. But sharing direct codes should be denied in this part.
+
+	"Learning" section contains references to various articles on current industry expectations from the programmers, and it contains some website links,online tutorials to improve the user's coding skills, etc.,
+
+
+BENEFITS:
+
+	1. The project's main objective is to cultivate the confidence in programmers, regarding their code's efficiency.
+
+	2. Students who are looking for placements in dream companies are the Target users of this project.
+	
+	3. A good competitive environment can be created among programmers from different backgrounds.
+
+	4. People from different places can interact and share their ideas easily.
+	
+
+RISKS:
+
+	1. Server should be able to handle a large amount of data not only the details of users but also the performance of each and every program they have submitted. 
+
+	2. Eventhough we have to add some additional feature to the compiler, It should not consume more time to produce the results to the user.
+
+	3. User's personal informations should be maintained with high security.
+	
+
+CONCLUSION:
+
+	This project is designed only for C and also with some limitations in number of programs. Later it can be extended to many other languages like CPP,Java,etc., the number of programs and the difficulty level of the programs can also be modified after getting feedback from the users. Hope this project will make "good" programmers into  "The best" programmers.
+
