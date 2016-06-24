@@ -1,7 +1,7 @@
 # EXPANION
 projects under Software Development domain
 
-A DESIGN DOCUMENT FOR THE PROJECT 'EFFIENC_'C''-a programmin website/app which gives more importance to the efficiency of the code!
+A DESIGN DOCUMENT FOR THE PROJECT 'EFFIENC_'C''-a programmin website/app which gives more importance to the efficiency ofthe code!
 
 ABSTRACT:
 
