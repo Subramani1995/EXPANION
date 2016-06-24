@@ -18,7 +18,7 @@ HIGH LEVEL ENTITIES:
 
 OVERVIEW:
 
-	The platform consists of 10 levels, where each and every level will have 5 programs. difficulty will gradually increase from level 1 to level 10. The user is allowed to move to the next level only if he scores a minimum of score in his previous level. at the end of each program user can check his rank, which is given depending on the number of users solved that particular program with better efficiency.
+	The platform consists of 10 levels, where each and eery level will have 5 programs. difficulty will gradually increase from level 1 to level 10. The user is allowed to move to the next level only if he scores a minimum of score in his previous level. at the end of each program user can check his rank, which is given depending on the number of users solved that particular program with better efficiency.
 
 
 DESIGN & IMPLEMENTATION:
